@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections;
-
+/*
+    Isim Soyisi: Salih Damar,
+    Ogrenci No. 1306250046,
+    NYP LAB 1.Hafta Odevi
+*/
 enum CihazTuru
 {
     Lamba,
@@ -185,7 +189,7 @@ class Program
         }
         if (!cihazVarMi)
         {
-            Console.WriteLine("Cihaz Bulunumadi");
+            Console.WriteLine("Cihaz Bulunamadi");
         }
     }
 
